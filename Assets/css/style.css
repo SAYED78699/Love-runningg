@@ -22,9 +22,10 @@ body {
 
 /* header */
 header {
-    background-color: aqua;
+    background-color: white;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    text-decoration: none;
 }
 /* main */
 main {
@@ -37,4 +38,7 @@ footer {
 }
 h1 {
     font-family: 'oswald' sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #252525;
 }
