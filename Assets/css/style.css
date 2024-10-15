@@ -27,6 +27,20 @@ header {
     box-shadow: 0 2px 2px #3a3a3a;
     text-decoration: none;
 }
+/* navbar */
+#menu {
+    font-size: larger;
+    word-spacing: 5px;
+    list-style-type: none;
+    margin-bottom: 1em;
+}
+#menu > li {
+    margin-bottom: 1em;
+}
+/* navbar unordered list */
+.active {
+    border-bottom: solid black 1px;
+}
 /* main */
 main {
     background-color: greenyellow;
